@@ -1,6 +1,6 @@
 import cv2 as cv
 import functions
-import os
+
 
 cam = cv.VideoCapture(0) #Iniciando a WebCam
 
